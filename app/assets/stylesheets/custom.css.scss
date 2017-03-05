@@ -48,11 +48,13 @@ $navbar-default-bg: black;
 
 }
 
-.bottomleft {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-    font-size: 18px;
+.article-actions{
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.description{
+  margin-top: 0;
 }
 
 footer{
@@ -79,3 +81,4 @@ footer ul li{
   float: left;
   margin-left: 15px;
 }
+
