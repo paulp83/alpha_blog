@@ -22,7 +22,7 @@ $navbar-default-bg: black;
 
 .center
 {
- text-align: center; 
+ text-align: center;
 }
 
 .jumbotron
@@ -76,7 +76,19 @@ $navbar-default-bg: black;
 .listing{
   list-style: none;
   padding-left: 0;
-  
+
+}
+
+.badge{
+  background-color: #CEF6F5;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+
+}
+
+.input_checkbox input {
+  width: auto !important;
 }
 
 footer{
@@ -103,4 +115,3 @@ footer ul li{
   float: left;
   margin-left: 15px;
 }
-
